@@ -25,14 +25,14 @@
    - sample.py :HuangYanlin & Lin ningning
 
 #### Explanation：  
- - lexer
-    Lexical analysis of regular expressions
- - regular
-    About some functions for Regular expression
- - nfa
-    Definition of an NFA node the construction of an NFA
- - sample
-    About some test for Regular expression
+ * lexer
+    - Lexical analysis of regular expressions
+ * regular
+    - About some functions for Regular expression
+ * nfa
+    - Definition of an NFA node the construction of an NFA
+ * sample
+    - About some test for Regular expression
 
 #### Work demonstration 
 * (how to use developed software, how to test it), should be repeatable by an instructor by given command-line examples:  
